@@ -9,7 +9,7 @@
 
 
 ### Instant boot time ⏩
-### Newer version ✨
+### Newer version of Eaglercraft ✨
 ### Written in Python 🐍
 
 
