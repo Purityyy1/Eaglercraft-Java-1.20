@@ -24,7 +24,6 @@ new_world_photo = extract_png_asset('buttons/new_world')
 options_photo = extract_png_asset('buttons/options')
 realms_photo = extract_png_asset('buttons/realms')
 singleplayer_photo = extract_png_asset('buttons/singleplayer')
-root.after(2000)
 
 
 
