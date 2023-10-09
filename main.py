@@ -6,13 +6,6 @@ root = Tk()
 root.title('Eaglercraft 1.20')
 root.geometry('800x600')
 
-
-eagtek_photo = PhotoImage(file='assets/eagtek.png')
-eagtek_label = Label(image=eagtek_photo)
-eagtek_label.pack()
-
-root.update()
-
 def extract_png_asset(asset_name):
     return PhotoImage('assets/' + asset_name + '.png')
 
@@ -32,10 +25,6 @@ options_photo = extract_png_asset('buttons/options')
 realms_photo = extract_png_asset('buttons/realms')
 singleplayer_photo = extract_png_asset('buttons/singleplayer')
 root.after(2000)
-
-
-
-eagtek_label.destroy()
 
 
 
