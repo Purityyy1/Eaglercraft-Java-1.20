@@ -115,8 +115,8 @@ equal_normal_black_photo = extract_png_asset('font/normal-black/equal')
 
 star_normal_black_photo = extract_png_asset('font/normal-black/star')
 
-left_p_normal_black_photo = extract_png_asset('font/normal-black/left-p')
-right_p_normal_black_photo = extract_png_asset('font/normal-black/right-p')
+left_p_normal_black_photo = extract_png_asset('font/normal-black/left_p')
+right_p_normal_black_photo = extract_png_asset('font/normal-black/right_p')
 
 left_b_normal_black_photo = extract_png_asset('font/normal-black/left_b')
 right_b_normal_black_photo = extract_png_asset('font/normal-black/right_b')
@@ -137,7 +137,7 @@ eight_normal_black_photo = extract_png_asset('font/normal-black/8')
 nine_normal_black_photo = extract_png_asset('font/normal-black/9')
 
 titlescreen_top_photo = extract_png_asset('titlescreen_top')
-dirt_bg_photo = extract_png_asset('dirt_bg')
+login_photo = extract_png_asset('login')
 download_terrian_photo = extract_png_asset('download_terrain')
 original_server_photo = extract_png_asset('original_server')
 titlescreen_bg_photo = extract_png_asset('titlescreen_bg')
@@ -150,13 +150,10 @@ new_world_photo = extract_png_asset('buttons/new_world')
 options_photo = extract_png_asset('buttons/options')
 realms_photo = extract_png_asset('buttons/realms')
 singleplayer_photo = extract_png_asset('buttons/singleplayer')
-screenname_photo = extract_png_asset('screenname')
-edit_profile_photo = extract_png_asset('edit_profile')
-player_skin_photo = extract_png_asset('player_skin')
 
 
-dirt_bg = Label(image=dirt_bg_photo)
-dirt_bg.pack()
+login_label = Label(image=login_photo)
+login_label.pack()
 
 
 
