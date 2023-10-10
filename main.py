@@ -36,6 +36,106 @@ w_normal_black_photo = extract_png_asset('font/normal-black/w')
 x_normal_black_photo = extract_png_asset('font/normal-black/x')
 y_normal_black_photo = extract_png_asset('font/normal-black/y')
 z_normal_black_photo = extract_png_asset('font/normal-black/z')
+
+a_capital_normal_black_photo = extract_png_asset('font/normal-black/capital_a')
+b_capital_normal_black_photo = extract_png_asset('font/normal-black/capital_b')
+c_capital_normal_black_photo = extract_png_asset('font/normal-black/capital_c')
+d_capital_normal_black_photo = extract_png_asset('font/normal-black/capital_d')
+e_capital_normal_black_photo = extract_png_asset('font/normal-black/capital_e')
+f_capital_normal_black_photo = extract_png_asset('font/normal-black/capital_f')
+g_capital_normal_black_photo = extract_png_asset('font/normal-black/capital_g')
+h_capital_normal_black_photo = extract_png_asset('font/normal-black/capital_h')
+i_capital_normal_black_photo = extract_png_asset('font/normal-black/capital_i')
+j_capital_normal_black_photo = extract_png_asset('font/normal-black/capital_j')
+k_capital_normal_black_photo = extract_png_asset('font/normal-black/capital_k')
+l_capital_normal_black_photo = extract_png_asset('font/normal-black/capital_l')
+m_capital_normal_black_photo = extract_png_asset('font/normal-black/capital_m')
+n_capital_normal_black_photo = extract_png_asset('font/normal-black/capital_n')
+o_capital_normal_black_photo = extract_png_asset('font/normal-black/capital_o')
+p_capital_normal_black_photo = extract_png_asset('font/normal-black/capital_p')
+q_capital_normal_black_photo = extract_png_asset('font/normal-black/capital_q')
+r_capital_normal_black_photo = extract_png_asset('font/normal-black/capital_r')
+s_capital_normal_black_photo = extract_png_asset('font/normal-black/capital_s')
+t_capital_normal_black_photo = extract_png_asset('font/normal-black/capital_t')
+u_capital_normal_black_photo = extract_png_asset('font/normal-black/capital_u')
+v_capital_normal_black_photo = extract_png_asset('font/normal-black/capital_v')
+w_capital_normal_black_photo = extract_png_asset('font/normal-black/capital_w')
+x_capital_normal_black_photo = extract_png_asset('font/normal-black/capital_x')
+y_capital_normal_black_photo = extract_png_asset('font/normal-black/capital_y')
+z_capital_normal_black_photo = extract_png_asset('font/normal-black/capital_z')
+
+add_normal_black_photo = extract_png_asset('font/normal-black/add')
+subtract_normal_black_photo = extract_png_asset('font/normal-black/subtract')
+
+and_normal_black_photo = extract_png_asset('font/normal-black/and')
+
+arrow_point_up_black_photo = extract_png_asset('font/normal-black/arrow_point_up')
+
+arrow_left_black_photo = extract_png_asset('font/normal-black/arrow_left')
+arrow_right_black_photo = extract_png_asset('font/normal-black/arrow_right')
+
+at_normal_black_photo = extract_png_asset('font/normal-black/at')
+
+backtick_normal_black_photo = extract_png_asset('font/normal-black/backtick')
+
+backslash_normal_black_photo = extract_png_asset('font/normal-black/backslash')
+frontslash_normal_black_photo = extract_png_asset('font/normal-black/frontslash')
+
+colon_normal_black_photo = extract_png_asset('font/normal-black/colon')
+semi_colon_normal_black_photo = extract_png_asset('font/normal-black/semi_colon')
+
+period_normal_black_photo = extract_png_asset('font/normal-black/period')
+comma_normal_black_photo = extract_png_asset('font/normal-black/comma')
+
+percent_normal_black_photo = extract_png_asset('font/normal-black/percent')
+
+copyright_normal_black_photo = extract_png_asset('font/normal-black/copyright')
+
+money_normal_black_photo = extract_png_asset('font/normal-black/money')
+
+UNKNOWN_normal_black_photo = extract_png_asset('font/normal-black/unknown_char')
+
+pound_normal_black_photo = extract_png_asset('font/normal-black/pound')
+
+underscore_normal_black_photo = extract_png_asset('font/normal-black/underscore')
+
+straight_thing_normal_black_photo = extract_png_asset('font/normal-black/straight_thing')
+
+single_quote_normal_black_photo = extract_png_asset('font/normal-black/single_quote')
+double_quote_normal_black_photo = extract_png_asset('font/normal-black/double_quote')
+
+weird_thing_normal_black_photo = extract_png_asset('font/normal-black/weird_thing')
+
+worm_normal_black_photo = extract_png_asset('font/normal-black/worm')
+
+exclamation_normal_black_photo = extract_png_asset('font/normal-black/exclamation')
+question_normal_black_photo = extract_png_asset('font/normal-black/question')
+
+equal_normal_black_photo = extract_png_asset('font/normal-black/equal')
+
+star_normal_black_photo = extract_png_asset('font/normal-black/star')
+
+left_p_normal_black_photo = extract_png_asset('font/normal-black/left-p')
+right_p_normal_black_photo = extract_png_asset('font/normal-black/right-p')
+
+left_b_normal_black_photo = extract_png_asset('font/normal-black/left_b')
+right_b_normal_black_photo = extract_png_asset('font/normal-black/right_b')
+
+left_b2_normal_black_photo = extract_png_asset('font/normal-black/left_b2')
+right_b2_normal_black_photo = extract_png_asset('font/normal-black/right_b2')
+
+
+zero_normal_black_photo = extract_png_asset('font/normal-black/0')
+one_normal_black_photo = extract_png_asset('font/normal-black/1')
+two_normal_black_photo = extract_png_asset('font/normal-black/2')
+three_normal_black_photo = extract_png_asset('font/normal-black/3')
+four_normal_black_photo = extract_png_asset('font/normal-black/4')
+five_normal_black_photo = extract_png_asset('font/normal-black/5')
+six_normal_black_photo = extract_png_asset('font/normal-black/6')
+seven_normal_black_photo = extract_png_asset('font/normal-black/7')
+eight_normal_black_photo = extract_png_asset('font/normal-black/8')
+nine_normal_black_photo = extract_png_asset('font/normal-black/9')
+
 titlescreen_top_photo = extract_png_asset('titlescreen_top')
 dirt_bg_photo = extract_png_asset('dirt_bg')
 download_terrian_photo = extract_png_asset('download_terrain')
