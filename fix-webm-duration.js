@@ -24,7 +24,8 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
- 
+
+
 (function(m,e){"function"===typeof define&&define.amd?define(e):"undefined"!==typeof module&&module.exports?module.exports=e():window.ysFixWebmDuration=e()})("fix-webm-duration",function(){function m(a,b){a.prototype=Object.create(b.prototype);a.prototype.constructor=a}function e(a,b){this.name=a||"Unknown";this.type=b||"Unknown"}function l(a,b){e.call(this,a,b||"Uint")}function k(a,b){e.call(this,a,b||"Float")}function h(a,b){e.call(this,a,b||"Container")}function n(a){h.call(this,"File","File");
 this.setSource(a)}function p(a,b,c,d){"object"===typeof c&&(d=c,c=void 0);if(!c)return new Promise(function(g){p(a,b,g,d)});try{var f=new FileReader;f.onloadend=function(){try{var g=new n(new Uint8Array(f.result));g.fixDuration(b,d)&&(a=g.toBlob(a.type))}catch(q){}c(a)};f.readAsArrayBuffer(a)}catch(g){c(a)}}var r={172351395:{name:"EBML",type:"Container"},646:{name:"EBMLVersion",type:"Uint"},759:{name:"EBMLReadVersion",type:"Uint"},754:{name:"EBMLMaxIDLength",type:"Uint"},755:{name:"EBMLMaxSizeLength",
 type:"Uint"},642:{name:"DocType",type:"String"},647:{name:"DocTypeVersion",type:"Uint"},645:{name:"DocTypeReadVersion",type:"Uint"},108:{name:"Void",type:"Binary"},63:{name:"CRC-32",type:"Binary"},190023271:{name:"SignatureSlot",type:"Container"},16010:{name:"SignatureAlgo",type:"Uint"},16026:{name:"SignatureHash",type:"Uint"},16037:{name:"SignaturePublicKey",type:"Binary"},16053:{name:"Signature",type:"Binary"},15963:{name:"SignatureElements",type:"Container"},15995:{name:"SignatureElementList",
