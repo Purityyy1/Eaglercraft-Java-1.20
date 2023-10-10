@@ -23,10 +23,15 @@ new_world_photo = extract_png_asset('buttons/new_world')
 options_photo = extract_png_asset('buttons/options')
 realms_photo = extract_png_asset('buttons/realms')
 singleplayer_photo = extract_png_asset('buttons/singleplayer')
+screenname_photo = extract_png_asset('screenname')
+edit_profile_photo = extract_png_asset('edit_profile')
+player_skin_photo = extract_png_asset('player_skin')
 
 
 dirt_bg = Label(image=dirt_bg_photo)
 dirt_bg.pack()
+
+
 
 
 
