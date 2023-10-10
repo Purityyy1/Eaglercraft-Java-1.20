@@ -1,5 +1,5 @@
 # Eaglercraft 1.20
-Note from Lead Dev ; Im also working on 1.20 , Just do whatever u want with 1.14 , We are idiots
+NOTE: PLEASE FORK THIS PROJECT!!! 🍴
 -
 ## 😎 Let me introduce you to Eaglercraft 1.20!
 
@@ -21,8 +21,6 @@ Note from Lead Dev ; Im also working on 1.20 , Just do whatever u want with 1.14
 ### AR-DEV-1 (Creator of Eaglercraft 1.14 and 1.8.9)
 ### FlamePVPCodes (Improves Eagler's code) 
 ### InkBoiKun (Graphic Design and Bug fixes)
-
-## **Please fork this project!** 🍴
 
 ## **🚨 Mojang DMCA Notice 🚨*
 ### If you are willing to shut us down then PLEASE read BtPlayzX's DMCA complaint [here](https://github.com/EaglerDevs/Dear-Mojang-via-Eaglercraft)
