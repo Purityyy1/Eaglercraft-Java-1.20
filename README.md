@@ -19,7 +19,7 @@ NOTE: PLEASE FORK THIS PROJECT!!! 🍴
 ### Runs smoothly on Chromebooks 💻
 
 
-#**Devs** 🛠️
+# Devs 🛠️
 ## 👨‍💻 AR-DEV-1
 
 ### 🌐 Paved the way for Eagler development console to code in diverse programming languages
@@ -57,7 +57,7 @@ NOTE: PLEASE FORK THIS PROJECT!!! 🍴
 ### 🥇 Owned the achievement of knowing almost every code
 ### 🎤 Holds the title for the third Eaglerbrother™ (first was AR-DEV-1)
 
-## 👨‍💻  Ink Boi-KUn
+## 👨‍💻  Ink Boi-Kun
 ### 🌟 Elevated our website's quality
 ### 🏆 Earned the "OP" status
 ### 🤼 Tries to bring the Eaglercraft community together
