@@ -16,14 +16,14 @@ NOTE: PLEASE FORK THIS PROJECT!!! 🍴
 ### More skins 👕
 ### Pets for your avatar 🐶
 ### Infinite world 🌍
-
+### Runs smoothly on Chromebooks 💻
 
 
 ## **Devs** 🛠️
 ### BtPlayzX (Creator of Eaglercraft 1.20)
 ### AR-DEV-1 (Creator of Eaglercraft 1.14 and 1.8.9,Actally Mojang is kinda after me so please save me bcz I know lots of coding languages including Python but I am very bad at Python lol - AR-DEV-1)
 ### FlamePVPCodes (Improves Eagler's code) 
-### InkBoiKun (Graphic Design and Bug fixes)
+### InkBoiKun (Graphic Design, Bug fixes, Co Creator of Eaglercraft 1.20, Owner of DMCA'd Client.)
 
 ## **🚨 Mojang DMCA Notice 🚨*
 ### If you are willing to shut us down then PLEASE read BtPlayzX's DMCA complaint [here](https://github.com/EaglerDevs/Dear-Mojang-via-Eaglercraft)
