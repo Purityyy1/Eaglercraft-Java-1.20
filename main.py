@@ -150,6 +150,7 @@ new_world_photo = extract_png_asset('buttons/new_world')
 options_photo = extract_png_asset('buttons/options')
 realms_photo = extract_png_asset('buttons/realms')
 singleplayer_photo = extract_png_asset('buttons/singleplayer')
+entry_bar_photo = extract_png_asset('entry_bar')
 
 
 login_label = Label(image=login_photo)
