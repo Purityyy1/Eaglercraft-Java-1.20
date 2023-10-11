@@ -18,7 +18,7 @@ NOTE: PLEASE FORK THIS PROJECT!!! 🍴
 
 ## **Devs** 🛠️
 ### BtPlayzX (Creator of Eaglercraft 1.20)
-### AR-DEV-1 (Creator of Eaglercraft 1.14 and 1.8.9)
+### AR-DEV-1 (Creator of Eaglercraft 1.14 and 1.8.9,Actally Mojang is kinda after me so please save me bcz I know lots of coding languages including Python but I am very bad at Python lol - AR-DEV-1)
 ### FlamePVPCodes (Improves Eagler's code) 
 ### InkBoiKun (Graphic Design and Bug fixes)
 
