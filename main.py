@@ -157,7 +157,9 @@ entry_bar_photo = extract_png_asset('entry_bar')
 login_label = Label(image=login_photo)
 login_label.pack()
 
-
+class EntryBar:
+    def __init__(self, x, y):
+        pass
 
 
 
