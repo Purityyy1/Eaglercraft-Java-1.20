@@ -5,6 +5,7 @@ from time import sleep
 root = Tk()
 root.title('Eaglercraft 1.20')
 root.geometry('800x600')
+root.resizable(False, False)
 
 def extract_png_asset(asset_name):
     return PhotoImage(file='assets/' + asset_name + '.png')
